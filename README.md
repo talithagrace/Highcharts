@@ -5,3 +5,5 @@ users can drill down on points on the chart to reveal charts which also use CSV 
 <p>These charts work fine in Microsoft Edge, however Chrome does not allow the browser to access local files by default. Please read
 here for further information and a way to temporarily allow this in Chrome:</p>
 <p>https://stackoverflow.com/questions/18586921/how-to-launch-html-using-chrome-at-allow-file-access-from-files-mode</p>
+
+The other alternative is to host your CSV files on a server but this may not be appropriate if organisations want to keep sensitive data in local directories.
